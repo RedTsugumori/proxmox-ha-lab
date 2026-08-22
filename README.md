@@ -37,7 +37,7 @@ The workload provides several useful failure cases:
 ## Technologies
 
 - Proxmox VE or a virtualized test environment
-- Ubuntu Server
+- Debian Server
 - Velocity proxy
 - Paper server
 - Java
