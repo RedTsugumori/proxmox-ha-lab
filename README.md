@@ -1,4 +1,4 @@
-# Proxmox-Availability Lab
+# Proxmox-High-Availability Lab
 
 A home-lab project for learning how to build and test a resilient Minecraft server environment using Linux virtual machines, Velocity, and Paper.
 
