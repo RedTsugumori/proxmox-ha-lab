@@ -1,4 +1,4 @@
-(Abandoned Repo)
+(This repo has been abandoned for a new Proxmox Lab)
 
 # Proxmox-High-Availability Lab
 
